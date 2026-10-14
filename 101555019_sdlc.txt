@@ -1,0 +1,3 @@
+The Software Development Lifecycle (SDLC) is the process teams follow to plan, build, test, release, and maintain software.
+DevOps is important because it connects every stage of the SDLC instead of treating them as separate steps.
+
