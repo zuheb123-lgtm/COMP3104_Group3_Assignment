@@ -1,0 +1,3 @@
+COMP3104 is the DevOps course in the Computer Programming and Analysis program at George Brown College.
+The course teaches how development and operations teams work together to build, test, and deliver software faster.
+
