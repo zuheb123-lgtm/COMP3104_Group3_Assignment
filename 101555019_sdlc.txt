@@ -4,3 +4,6 @@ DevOps is important because it connects every stage of the SDLC instead of treat
 With CI/CD, code is tested automatically every time someone pushes changes.
 This helps teams catch bugs early and release updates faster and more often.
 
+DevOps also improves teamwork because developers and operations share the same tools and goals.
+Automated testing and monitoring help keep the software stable and high quality after it's released.
+
