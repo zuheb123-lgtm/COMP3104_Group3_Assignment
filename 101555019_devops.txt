@@ -4,5 +4,8 @@ The course teaches how development and operations teams work together to build, 
 In this course we learn about version control, branching strategies, and continuous integration and deployment (CI/CD).
 We also practice working in teams using pull requests and resolving merge conflicts.
 
+Some of the tools we use in this course are Git, GitHub, and GitHub Actions.
+Git tracks changes to our code, GitHub stores our repos online, and GitHub Actions runs automated checks every time we push.
+
 
 
