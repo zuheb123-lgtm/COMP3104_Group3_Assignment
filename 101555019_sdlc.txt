@@ -1,3 +1,6 @@
 The Software Development Lifecycle (SDLC) is the process teams follow to plan, build, test, release, and maintain software.
 DevOps is important because it connects every stage of the SDLC instead of treating them as separate steps.
 
+With CI/CD, code is tested automatically every time someone pushes changes.
+This helps teams catch bugs early and release updates faster and more often.
+
