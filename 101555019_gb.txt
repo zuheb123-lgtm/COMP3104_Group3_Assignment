@@ -1,3 +1,5 @@
 George Brown College is a public college located in downtown Toronto, Ontario.
 It was founded in 1967 and is known for its hands-on, career-focused programs.
 I'm currently studying in the Computer Programming and Analysis Programming.
+GBC has three main campuses: St. James, Casa Loma, and Waterfront.
+St. James is where most business and tech programs are, Casa Loma focuses on trades and technology, and Waterfront is home to the health sciences programs.
