@@ -1,2 +1,4 @@
 The Software Development Lifecycle (SDLC) covers planning, building, testing, releasing, and maintaining software.
 DevOps matters because it connects each SDLC stage instead of treating them as separate hand-offs.
+
+Automation through CI/CD runs builds and tests on every change, so problems are found early.
