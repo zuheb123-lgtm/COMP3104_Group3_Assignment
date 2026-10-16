@@ -1,0 +1,5 @@
+COMP3104 is the DevOps course at George Brown College.
+It teaches how development and operations teams work together to deliver software faster and more reliably.
+
+Topics include version control, branching strategies, pull requests, and continuous integration.
+Tools used in the course are Git, GitHub, and GitHub Actions.
