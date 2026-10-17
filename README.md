@@ -3,3 +3,4 @@
 ## Group Members
 - **Leader:** Zuheb Mohamud (101555019) - [GitHub](https://github.com/zuheb123-lgtm)
 - Travis Eweka (101583426) - [GitHub](https://github.com/Travis-bug)
+- Judene Brown (101503637) - [GitHub](https://github.com/judene-13)
