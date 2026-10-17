@@ -12,3 +12,16 @@ come up during software development or release.
 
 DevOps encourages teams to share responsibilities
 and work together to deliver reliable software.
+Teamwork and Communication
+
+DevOps helps teams communicate better
+between software developers and those
+who run and maintain it.
+
+Rather than working alone, teams can share updates,
+review code, and solve problems as a group.
+Tools like GitHub branches and pull requests
+help teams work together like this.
+This matters even more in group projects where
+several students are working on the same repository.
+
