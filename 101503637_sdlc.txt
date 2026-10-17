@@ -25,3 +25,18 @@ help teams work together like this.
 This matters even more in group projects where
 several students are working on the same repository.
 
+
+Managing Changes in Software
+
+Software is always changing because users may request
+Features that are new or enhancements to those that are already existing.
+
+DevOps makes it easier to manage these changes by
+Monitoring the various versions of a project.
+
+If a new update causes problems, developers can use
+version control to find what was changed and work
+towards fixing the issue.
+
+This is important because even small changes can
+They can also affect other parts of an application.
