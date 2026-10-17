@@ -5,3 +5,8 @@ operations teams. It connects development, testing, deployment, and
 maintenance through shared responsibilities and regular feedback.
 This helps teams identify problems earlier and deliver improvements
 more consistently.
+Automation helps teams repeat tasks such as building and testing software
+consistently. Continuous integration runs automated checks when changes
+are shared, helping the team detect issues before merging. These checks
+provide useful feedback, although their effectiveness depends on what
+the pipeline actually tests.
