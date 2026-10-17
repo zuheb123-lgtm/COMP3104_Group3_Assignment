@@ -28,3 +28,14 @@ Benefits of DevOps:
 - Increased efficiency
 - Improved quality and security
 - Faster time to market
+
+Continuous Integration and Continuous Deployment
+CI/CD is another important part of DevOps.
+Continuous Integration lets developers regularly
+merge their code and automatically check for issues.
+Continuous Deployment can automatically put changes into production
+once all the necessary checks are complete.
+Tools like GitHub Actions can run workflows whenever
+developers push changes to a repository.
+This helps teams catch errors sooner and cuts down on
+the amount of repetitive manual work they need to do.
