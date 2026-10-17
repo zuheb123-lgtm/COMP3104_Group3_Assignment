@@ -1,0 +1,7 @@
+Why DevOps Matters in the Software Development Life Cycle
+
+DevOps encourages collaboration between software development and
+operations teams. It connects development, testing, deployment, and
+maintenance through shared responsibilities and regular feedback.
+This helps teams identify problems earlier and deliver improvements
+more consistently.
