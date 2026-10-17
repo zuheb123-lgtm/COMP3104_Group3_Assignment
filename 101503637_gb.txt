@@ -1,6 +1,6 @@
-George Brown College: Learning Through Practical Experience
+//////////////George Brown Polytechnic - Own Your Tomorrow//////////////////////////
 
-George Brown College is a public college in Toronto that focuses on
+George Brown Polytechnic  is a public institution in Toronto that focuses on
 career-based education and hands-on learning.
 
 What I appreciate about studying at George Brown is that
@@ -20,6 +20,12 @@ face when working in the IT industry.
 I like the programming labs because I get to practice
 what we learned in class instead of just reading about it.
 
-Sometimes the assignments are tough, especially when the
-code does not work, but finding and fixing mistakes helps me
-understand programming better.
+Group projects are an important part of the program
+because they teach students how to work with others
+and manage deadlines.
+
+By working on these projects, I get experience with tools
+like GitHub and learn how software development
+works in real-world situations, not just in the classroom.
+The slogan "Own Your Tomorrow" connects to my experience because I am 
+learning through experience. Own it <3
