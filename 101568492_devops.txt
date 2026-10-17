@@ -3,6 +3,7 @@ COMP3104 - Developer Operations
 COMP3104 introduces practices and tools used to support collaboration
 and software delivery. This group assignment gives students practice
 using Git, GitHub, branches, pull requests, and continuous integration.
+
 Git records changes so team members can review the history of a project.
 Separate branches allow each member to work independently. Pull requests
 let the team review and discuss changes before merging them into the
