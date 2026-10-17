@@ -1,0 +1,14 @@
+The Importance of DevOps in the Software Development Lifecycle
+
+The Software Development Life Cycle, or SDLC, is a process
+that teams use to plan, design, build, test, launch, and maintain software.
+software applications.
+
+DevOps is important in this process because
+it helps development and operations teams work together.
+
+When teams do not communicate well, problems can
+come up during software development or release.
+
+DevOps encourages teams to share responsibilities
+and work together to deliver reliable software.
