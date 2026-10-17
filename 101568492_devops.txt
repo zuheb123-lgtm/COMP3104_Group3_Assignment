@@ -8,3 +8,8 @@ Git records changes so team members can review the history of a project.
 Separate branches allow each member to work independently. Pull requests
 let the team review and discuss changes before merging them into the
 shared master branch.
+
+The repository uses GitHub Actions to demonstrate an automated workflow
+triggered by pushes and pull requests. The current workflow checks out
+the repository and prints information about the run. It demonstrates
+pipeline execution but does not build software or test file contents.
